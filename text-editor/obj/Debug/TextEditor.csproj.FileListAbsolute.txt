@@ -1,0 +1,10 @@
+C:\Users\Joe Goldberg\source\repos\TextEditor\bin\Debug\TextEditor.exe.config
+C:\Users\Joe Goldberg\source\repos\TextEditor\bin\Debug\TextEditor.exe
+C:\Users\Joe Goldberg\source\repos\TextEditor\bin\Debug\TextEditor.pdb
+C:\Users\Joe Goldberg\source\repos\TextEditor\obj\Debug\TextEditor.FormTextEditor.resources
+C:\Users\Joe Goldberg\source\repos\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+C:\Users\Joe Goldberg\source\repos\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.cache
+C:\Users\Joe Goldberg\source\repos\TextEditor\obj\Debug\TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\Joe Goldberg\source\repos\TextEditor\obj\Debug\TextEditor.exe
+C:\Users\Joe Goldberg\source\repos\TextEditor\obj\Debug\TextEditor.pdb
+C:\Users\Joe Goldberg\source\repos\TextEditor\obj\Debug\TextEditor.csproj.AssemblyReference.cache

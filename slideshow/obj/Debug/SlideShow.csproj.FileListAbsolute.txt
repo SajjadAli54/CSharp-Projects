@@ -1,0 +1,9 @@
+C:\Users\Joe Goldberg\source\repos\Labs\SlideShow\bin\Debug\SlideShow.exe.config
+C:\Users\Joe Goldberg\source\repos\Labs\SlideShow\bin\Debug\SlideShow.exe
+C:\Users\Joe Goldberg\source\repos\Labs\SlideShow\bin\Debug\SlideShow.pdb
+C:\Users\Joe Goldberg\source\repos\Labs\SlideShow\obj\Debug\SlideShow.Properties.Resources.resources
+C:\Users\Joe Goldberg\source\repos\Labs\SlideShow\obj\Debug\SlideShow.SlideShowForm.resources
+C:\Users\Joe Goldberg\source\repos\Labs\SlideShow\obj\Debug\SlideShow.csproj.GenerateResource.cache
+C:\Users\Joe Goldberg\source\repos\Labs\SlideShow\obj\Debug\SlideShow.csproj.CoreCompileInputs.cache
+C:\Users\Joe Goldberg\source\repos\Labs\SlideShow\obj\Debug\SlideShow.exe
+C:\Users\Joe Goldberg\source\repos\Labs\SlideShow\obj\Debug\SlideShow.pdb
