@@ -1,0 +1,14 @@
+C:\Users\Joe Goldberg\source\repos\Labs\Notepad\bin\Debug\Notepad.exe.config
+C:\Users\Joe Goldberg\source\repos\Labs\Notepad\bin\Debug\Notepad.exe
+C:\Users\Joe Goldberg\source\repos\Labs\Notepad\bin\Debug\Notepad.pdb
+C:\Users\Joe Goldberg\source\repos\Labs\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+C:\Users\Joe Goldberg\source\repos\Labs\Notepad\obj\Debug\Notepad.csproj.GenerateResource.cache
+C:\Users\Joe Goldberg\source\repos\Labs\Notepad\obj\Debug\Notepad.csproj.CoreCompileInputs.cache
+C:\Users\Joe Goldberg\source\repos\Labs\Notepad\obj\Debug\Notepad.exe
+C:\Users\Joe Goldberg\source\repos\Labs\Notepad\obj\Debug\Notepad.pdb
+C:\Users\Joe Goldberg\source\repos\Labs\Notepad\obj\Debug\Notepad.FormShadesEditor.resources
+C:\Users\Joe Goldberg\source\repos\Labs\Notepad\bin\Debug\AutocompleteMenu-ScintillaNET.dll
+C:\Users\Joe Goldberg\source\repos\Labs\Notepad\bin\Debug\ScintillaNET.dll
+C:\Users\Joe Goldberg\source\repos\Labs\Notepad\bin\Debug\ScintillaNET.xml
+C:\Users\Joe Goldberg\source\repos\Labs\Notepad\obj\Debug\Notepad.csproj.AssemblyReference.cache
+C:\Users\Joe Goldberg\source\repos\Labs\Notepad\obj\Debug\Notepad.csproj.CopyComplete
