@@ -1,0 +1,9 @@
+D:\023-19-0100\Tic\Tic\bin\Debug\Tic.exe.config
+D:\023-19-0100\Tic\Tic\bin\Debug\Tic.exe
+D:\023-19-0100\Tic\Tic\bin\Debug\Tic.pdb
+D:\023-19-0100\Tic\Tic\obj\Debug\Tic.csprojResolveAssemblyReference.cache
+D:\023-19-0100\Tic\Tic\obj\Debug\Tic.frmTictactoe.resources
+D:\023-19-0100\Tic\Tic\obj\Debug\Tic.Properties.Resources.resources
+D:\023-19-0100\Tic\Tic\obj\Debug\Tic.csproj.GenerateResource.Cache
+D:\023-19-0100\Tic\Tic\obj\Debug\Tic.exe
+D:\023-19-0100\Tic\Tic\obj\Debug\Tic.pdb
