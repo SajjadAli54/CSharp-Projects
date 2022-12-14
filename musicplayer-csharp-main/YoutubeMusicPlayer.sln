@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoutubeMusicPlayer", "YoutubeMusicPlayer\YoutubeMusicPlayer.csproj", "{95D12548-B40C-488A-9CAA-47DF5873BB05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95D12548-B40C-488A-9CAA-47DF5873BB05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95D12548-B40C-488A-9CAA-47DF5873BB05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95D12548-B40C-488A-9CAA-47DF5873BB05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95D12548-B40C-488A-9CAA-47DF5873BB05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53E89709-E838-4408-8A30-701732C2E571}
+	EndGlobalSection
+EndGlobal
